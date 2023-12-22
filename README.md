@@ -1,5 +1,4 @@
 # Piano-Sound-Recognition-Technology
-<h1>基于Matlab的钢琴乐音识别技术研究</h1>
 
 <h2>技术路线：</h2>
 
